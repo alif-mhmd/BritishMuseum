@@ -1,0 +1,122 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+
+.width {
+    max-width: 1128px;
+}
+
+.bannerImage {
+    height: 500px;
+    filter: brightness(50%);
+}
+
+.carousel-caption h5 {
+    width: 550px;
+}
+
+.carousel-caption p {
+    width: 460px;
+}
+
+.py-7 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.headbtn {
+    color: #261b14;
+}
+
+.findout {
+    background-color: #735a4c;
+    color: white;
+}
+
+.discount {
+    color: #261b14;
+}
+
+.myCard h2,
+.myCard h3,
+.myCard a {
+    font-family: "Roboto", serif;
+    font-weight: 700;
+}
+
+.myCard h2,
+.myCard h3 {
+    color: #402c21;
+}
+
+.myCard p,
+.myCard li {
+    color: #402c21;
+    font-size: 15px;
+}
+
+.myCard i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    color: #261b14;
+    background-color: #edecf9;
+}
+
+.myCard li {
+    display: flex;
+    align-items: center;
+}
+
+.myCard a {
+    color: #402c21;
+    background-color: #a69e94;
+}
+
+.packbtn:hover {
+    color: white;
+    background-color: #402c21;
+}
+
+.plus {
+    background-color: #402c21;
+    -webkit-box-shadow: 0px 10px 155px #8080802f;
+    -moz-box-shadow: 0px 10px 15px #8080802f;
+    box-shadow: 0px 10px 15px #8080802f;
+}
+
+.hot {
+    background-color: maroon;
+}
+
+.plus h2,
+.plus h3,
+.plus p,
+.plus li {
+    color: white !important;
+}
+
+.plus li {
+    background: transparent;
+}
+
+.plus a {
+    background-color: white;
+}
+
+.plus a:hover {
+    background-color: #a69e94;
+}
+
+.copyright {
+    text-decoration: none;
+    color: #a69e94;
+}
+
+.footer {
+    background-color: #261b14;
+}
